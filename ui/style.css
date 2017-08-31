@@ -4,10 +4,7 @@ body, html{
     font-size: 18px;
 
 }
-form{
-    border:1px solid grey;
-    box-shadow:3px;
-}
+
 .register-form{
     font-size: 16px;
    left: 50%;
@@ -16,6 +13,8 @@ form{
     -webkit-transform: translate3d(-50%, -50%, 0);
     -moz-transform: translate3d(-50%, -50%, 0);
     transform: translate3d(-50%, -50%, 0);
+    border:1px solid grey;
+    box-shadow:3px;
 }
 
 .regbutton{    
