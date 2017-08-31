@@ -15,9 +15,21 @@ header{
     text-decoration:none;
     color:#fff;
     font-size:12px;
+    padding:10px 0px;
 }
 .top-bar .icons{
     float:right;
+}
+.icons ul {
+    padding:0;
+    margin:0;
+}
+.icons ul li {
+    display:inline-block;
+    list-style:none;
+}
+.icons ul li a{
+    padding:15px;
 }
 .register-form{
     font-size: 16px;
