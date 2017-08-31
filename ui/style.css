@@ -16,7 +16,8 @@ body, html{
     border:1px solid grey;
     border-shadow:3px;
     padding:30px;
-    border-radius:5px;
+    border-radius:5px;  
+    background-color:#34515E;
 }
 
 .regbutton{    
