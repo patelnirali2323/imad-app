@@ -1,1 +1,103 @@
+header{
+    background-color:blue;
+}
+.top-bar{
+    padding:10px 0px;
+   }
+.top-bar .contact_number a{
+    text-decoration:none;
+    font-size:12px;
+    color:#fff;
+}
+.top-bar .icons ul{
+    margin:0;
+    padding:0;
+    text-align:right;
+}
+.top-bar .icons ul li{
+    list-style:none;
+    display:inline-block;
+    margin:0px 5px;
+}
+.icons ul li a{
+    padding:7px;
+    border-radius:50%;
+    color:#fff !important;
+    background-color:blue !important;
+}
+.navbar-nav {
+padding:10px 0px;
+}
+.navbar-nav  li{
+    margin:0px 5px;
+}
+.navbar-nav li a{
+    padding:8px 12px;
+    color:blue;
+    font-size:16px;
+}
+.navbar-nav li.active , .navbar-nav li a:hover{
+    background-color:blue !important;
+    color:#fff !important;
+}
+.navbar-nav li.users{
+    background-color:lightgreen;
+    border-radius:15px;
+}
+.register-form{
+    font-size: 16px;
+   left: 50%;
+    top: 50%;
+    position: absolute;
+    -webkit-transform: translate3d(-50%, -50%, 0);
+    -moz-transform: translate3d(-50%, -50%, 0);
+    transform: translate3d(-50%, -50%, 0);
+}
+
+.regbutton{    
+    height: 50px;
+    width: 200px;
+    background-color:tomato;
+    border-radius: 0px;
+    font-size: 18px;
+    color:white;
+    border: none !important;
+    margin-bottom: 5px;
+}
+.regbutton:hover{    
+    color: white;
+    background-color:#aa422f;
+}
+.regbutton:active{    
+    color: white;
+    background-color:#aa422f;
+}
+.logbutton{    
+    height: 50px;
+    width: 200px;
+    background-color:yellowgreen;
+    border-radius: 0px;
+    font-size: 18px;
+    color:white;
+    border: none !important;
+    margin-bottom: 5px;
+}
+.logbutton:hover{    
+    color: white;
+    background-color:darkolivegreen;
+}
+.logbutton:active{    
+    color: white;
+    background-color:darkolivegreen;
+}
+.register-form label{
+    color: aliceblue;
+    
+}
+.register-form input{
+    margin-bottom: 5px;
+    width: 430px;
+    height: 40px;
+    border-radius: 0px;
+}
 
