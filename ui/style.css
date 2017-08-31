@@ -23,6 +23,8 @@ header{
 .icons ul {
     padding:0;
     margin:0;
+    float:right;
+    right:0px;
 }
 .icons ul li {
     display:inline-block;
