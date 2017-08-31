@@ -51,9 +51,6 @@ body, html{
     color: white;
     background-color:darkolivegreen;
 }
-
-
-
 .register-form label{
     color: aliceblue;
     
@@ -61,8 +58,8 @@ body, html{
 .register-form input{
     margin-bottom: 5px;
     width: 430px;
-    height: 40px;
-    border-radius: 0px;
+    height: 45px;
+    border-radius: 5px;
 }
 input[type=radio] {
     float:left;
