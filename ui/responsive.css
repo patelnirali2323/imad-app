@@ -1,0 +1,162 @@
+@media screen and (max-width:1199px){
+    .call_back_request{width: 36%;}
+    .call_back_request a{padding: 10px;}
+    .navbar-default{margin-bottom: 0px;}
+    .navbar-nav li a{font-size: 14px;padding: 0px 8px;}
+    .navbar-nav li a.request_free_shipping{font-size: 16px;padding: 7px;margin: 15px 0px 15px 0px; }
+    .selection_labels{bottom: 33%;}
+    .selection_labels ul li h3{font-size: 23px;margin: 0px 29px 0px 96px;}
+    .selection_labels ul li{margin: 0 5px;}
+    .selection_labels ul li a{padding: 6px 8px;font-size: 14px;}
+    .devices{background-size: 86.7%;padding: 16px 0px;}
+    .diff_devices{padding-top: 23px;}
+    .device_heading h1{font-size: 40px;padding: 0px;}
+    .device_description{ font-size: 15px;}
+    .img-text-hot-prices h1{font-size: 36px;}
+    .img-text-hot-prices p{font-size: 16px;}
+    .img-text-hot-prices a{font-size: 16px;padding: 2px 7px;}
+    .widget h4{font-size: 20px;}
+    .widget address{font-size: 15px;}
+    .widget ul{padding-bottom: 35px;}
+    .own-shipping{padding: 25px 60px;}
+    .own-shipping p{font-size: 14px;}
+    
+}
+@media screen and (max-width:991px){
+    .header_buttons ul li a{padding: 8px 8px;}
+    .call_back_request{width: 44%;}
+    .call_back_request a{padding:5px;}
+    .navbar-nav li a.request_free_shipping{margin: 2px 0px 15px 0px;}
+    .label_text_slide-1{width: 23%;padding-left: 31px;font-size: 19px;line-height: 26px;}
+    .iphone_purchase{margin-top: 41px;font-size: 20.1px;line-height: 25px;}
+    .ipad_purchase{margin-top: 3px;font-size: 20.1px;line-height: 25px;}
+    .samsung_purchase{width: 21%;right: 6%;}
+    .samsung_purchase{margin-top: 41px;font-size: 20.1px;line-height: 25px;}
+    .shipping_label_selection{padding: 35px 0px;}
+    /********************** slider section starts ***********************/
+    .link_caption-slide-2 p{font-size: 22px;}
+    .link_caption-slide-2 a{margin-left: 77px;padding: 8px 14px;}
+    .link_caption-slide-3 h2{font-size: 22px;padding-right: 28px;padding-top: 22px;}
+    .link_caption-slide-3 p{font-size: 14px;}
+    .link_caption-slide-4{top: 15%;width: 27%;}
+    .link_caption-slide-4 p{font-size: 28px;}
+    .link_caption-slide-5{width: 43%;}
+    .link_caption-slide-5 p{font-size: 22px;padding-bottom: 10px;line-height: 25px;}
+    .link_caption-slide-5 a{padding: 8px !important;}
+    .link_caption-slide-6{top: 10%;}
+    .link_caption-slide-6 p{font-size: 19px;line-height: 32px;padding-bottom: 5px;}
+    .link_caption-slide-7{top: 24%;width: 30%;}
+    .link_caption-slide-7 p{font-size: 25px;line-height: 34px;padding-bottom: 0px;}
+    .link_caption-slide-7 a{padding:8px !important;font-size: 13px !important;max-width: 88%;}
+    /******************* slider section ends *****************************/
+    .selection_labels{bottom: 31%;}
+    .selection_labels ul li h3 {font-size: 18px;margin: 0px 16px 0px 55px;}
+    .selection_labels ul li a {padding: 3px 2px; font-size: 13px;}
+    .devices{background-size: 82.7%;padding: 10px 0px;}
+    .device_title{padding-top: 32px;}
+    .device_heading h1{line-height: 42px;font-size: 29px;}
+    .diff_devices{padding-top: 41px;}
+    .device_description{font-size: 11px;}
+    .img-text-hot-prices{top: 13%;left: 0;}
+    .img-text-hot-prices h1{font-size: 25px;}
+    .img-text-hot-prices a{font-size: 12px;}
+    .bottom .col-sm-3 .widget{border-left: 0;padding: 0px 4px;}
+    .widget h4{font-size: 16px;}
+    .widget address{font-size: 12px;}
+    .widget ul li a{font-size: 12px;}
+    .widget p{font-size: 12px;line-height: 16px;}
+    .widget ul{padding-bottom: 31px;}
+    .own-shipping{padding: 10px 43px;}
+    .own-shipping p{font-size: 12px;padding-left: 7px;}
+    
+}
+@media screen and (max-width:767px){
+    .top-bar .col-sm-6{display: inline-block;width: 49%;}
+    .header_buttons ul li a{font-size: 14px;padding:11px 4px;}
+    .call_back_request{width: 47%;}
+    .call_back_request a{padding: 16px;font-size: 14px;}
+    .navbar-default .col-sm-4{width: 43%;float: left;position: relative;}
+    .navbar-default .col-sm-1{width: 57%;display: inline-block;}
+    .navbar .navbar-nav {display: inline-block;float: none;vertical-align: top;}
+    .navbar .navbar-collapse {text-align: center;}
+    .navbar-default .navbar-nav>li>a{padding: 5px 0px;}
+    .navbar-default .navbar-nav>li>a:hover{color:#f78e23;}
+    .device_title{width: 20%;float: left;position: relative;}
+    .devices{background-size: 88.7%;}
+    .diff_devices{float: left;width: 20%;left: 0px;}
+    .bottom .col-sm-3{width: 25%;float: left;display: inline-block;}
+    .top-logo-footer img{margin: 0 auto;}
+    .img-text-hot-prices{width: 57%;left: 55%;}
+    .img-text-hot-prices h1{font-size: 19px;}
+}
+@media screen and (max-width:567px){
+    .top-bar .col-sm-6{width: 57%;}
+    .top-bar .col-sm-6:last-child{width: 42%;}
+    .label_text_slide-1{width: 22%;padding-left: 21px;font-size: 13px;line-height: 17px;}
+    .iphone_purchase{margin-top: 18px;font-size: 14.1px;line-height: 22px;}
+    .ipad_purchase{margin-top: 0px;font-size: 14.1px;line-height: 20px;}
+    .samsung_purchase{margin-top: 18px;font-size: 14.1px;line-height: 18px;right: 5%;}
+    .shipping_label_selection{padding: 35px 0px;}
+     /********************** slider section starts ***********************/
+    .link_caption-slide-2 p{font-size: 16px;line-height: 21px;}
+    .link_caption-slide-2 a{margin-left: 51px;padding: 4px 8px !important;font-size: 12px;}
+    .link_caption-slide-3 h2{font-size: 16px;padding-right: 23px;padding-top: 16px;}
+    .link_caption-slide-3 p{font-size: 11px;padding: 8px 0px;}
+    .link_caption-slide-4{width: 21%;}
+    .link_caption-slide-4 p{font-size: 15px;line-height: 23px;}
+    .link_caption-slide-5{width: 43%;}
+    .link_caption-slide-5 p{font-size: 16px;padding-bottom:5px;line-height: 17px;}
+    .link_caption-slide-5 a{padding: 4px !important;margin-left: 54px;}
+    .link_caption-slide-6{top: 10%;}
+    .link_caption-slide-6 p{font-size: 13px;line-height: 23px;padding-bottom: 5px;}
+    .link_caption-slide-7{width: 28%;}
+    .link_caption-slide-7 p{font-size: 16px;line-height: 24px;}
+    .link_caption-slide-7 a{font-size: 9px !important;max-width: 100%;}
+      /******************* slider section ends *****************************/
+    .call_back_request{width: 73%;}
+    .call_back_request a{padding: 11px;}
+    .selection_labels{bottom: 25%;}
+    .selection_labels ul li h3{font-size: 14px;margin: 0px 0px 0px 27px;}
+    .selection_labels ul li{margin: 0 3px;}
+    .selection_labels ul li a{padding: 3px 2px;font-size: 10px;}
+    .device_title{padding-top: 0px;width: 100%;}
+    .device_heading h1{line-height: 26px;font-size: 19px;text-align: center;}
+    .devices{background-position: center;background-size: 100%;padding-top: 0px;}
+    .diff_devices{width: 23%;left: 64px;padding-top: 35px;}
+    .diff_devices img{width: 50%;}
+    .device_description{font-size: 9px;}
+    .img-text-hot-prices{width: 48%;left: 53%;}
+    .img-text-hot-prices h1{font-size: 15px;}
+    .img-text-hot-prices p{padding-bottom: 10px;font-size: 14px;}
+    .bottom .col-sm-3{width: 49%;border: none;}
+    .own-shipping{padding: 10px 0px;}
+    .own-shipping p{font-size: 10px;}
+    .black_footer p{padding: 0px;}
+    br{display: none;}
+    .shipping_address{display: none;}
+    .newsletter{display: none;}
+}
+@media screen and (max-width:479px){
+    .top-bar .col-sm-6{width: 60%;}
+    .header_buttons ul li a{font-size: 12px;padding:12px 4px;}
+    .top-bar .col-sm-6:last-child{width: 39%;}
+    .call_back_request{width:95%;}
+    .call_back_request a{padding: 12px 17px;font-size: 12px;}
+    .navbar-default .col-sm-4{width: 48%;}
+    .navbar-default .col-sm-1{width: 52%;}
+    .navbar-header img{width: 21%;}
+    .selection_labels{bottom: 24%;}
+    .selection_labels ul li h3{margin: 0px 0px 0px 24px;font-size: 10px;}
+    .selection_labels ul li a{font-size: 9px;}
+    .device_title{width: 100%;}
+    .device_heading h1{line-height: 28px;font-size: 18px;text-align: center;}
+    .devices{background-size: 100%;}
+    .diff_devices{width: 24%;left: 35px;}
+    .hot-prices{padding-top: 25px;}
+    .img-text-hot-prices{left: 52%;}
+    .img-text-hot-prices h1{font-size: 12px;}
+    .img-text-hot-prices p{padding-bottom: 8px;font-size: 11px;}
+    .img-text-hot-prices a{font-size: 10px;}
+    .own-shipping p{font-size: 8px;}
+    br{display: none;}
+}
