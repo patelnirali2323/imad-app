@@ -3,8 +3,7 @@ header{
 }
 .top-bar{
     padding:10px 0px;
-    background-color:black;
-}
+   }
 .top-bar .contact_number a{
     text-decoration:none;
     font-size:12px;
@@ -26,3 +25,21 @@ header{
     color:#fff;
     background-color:blue;
 }
+.navbar-nav {
+padding:10px 0px;
+}
+.navbar-nav  li{
+    margin:5px 0px;
+}
+.navbar-nav li a{
+    padding:8px 12px;
+    color:blue;
+    font-size:16px;
+}
+.navbar-nav li.active,.navbar-nav li a:hover{
+    background-color:blue;
+    color:#fff;
+}
+    
+    
+    
