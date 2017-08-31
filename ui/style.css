@@ -14,8 +14,9 @@ body, html{
     -moz-transform: translate3d(-50%, -50%, 0);
     transform: translate3d(-50%, -50%, 0);
     border:1px solid grey;
-    box-shadow:3px;
+    border-shadow:3px;
     padding:30px;
+    border-radius:5px;
 }
 
 .regbutton{    
