@@ -19,7 +19,9 @@ body, html{
     border-radius:5px;  
     background-color:#34515E;
 }
-
+.register-form h1{
+    color:iceblue;
+}
 .regbutton{    
     height: 50px;
     width: 200px;
