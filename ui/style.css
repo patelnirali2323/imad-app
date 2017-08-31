@@ -3,9 +3,11 @@ body {
     background-color: lightgrey;
     margin-top: 75px;
 }
+.main{
+    margin:0 auto;
+}
 
-
-.center h1{
+.main h1{
     text-align:center;
 }
 .form-group{
