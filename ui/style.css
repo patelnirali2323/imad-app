@@ -9,9 +9,12 @@ header{
 }
 .top-bar{
     padding:10px 0px;
+    background-color:lightblue;
 }
-.top-bar{
-    
+.top-bar .contact_number{
+    text-decoration:none;
+    color:#fff;
+    font-size:12px;
 }
 .register-form{
     font-size: 16px;
