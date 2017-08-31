@@ -44,6 +44,9 @@ header{
     padding:10px 0px;
     margin:0;
 }
+.navbar-nav li{
+    margin:0px 5px;
+}
 .navbar-nav li a{
     padding:8px 12px;
     color:blue !important;
