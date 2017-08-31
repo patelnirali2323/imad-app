@@ -30,9 +30,10 @@ header{
     list-style:none;
 }
 .icons ul li a{
-    padding:15px;
+    padding:7px;
     border:none;
-    background-color:#fff;
+    background-color:blue;
+    border-radius:50%;
 }
 .register-form{
     font-size: 16px;
