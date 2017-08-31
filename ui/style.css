@@ -69,8 +69,5 @@ body, html{
     height: 45px;
     border-radius: 5px;
 }
-input[type=radio] {
-    float:left;
-   
-}
+
 
