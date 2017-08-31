@@ -64,7 +64,7 @@ body, html{
     height: 40px;
     border-radius: 0px;
 }
-input[type=gender] {
+input[type=radio] {
     float:left;
 }
 }
