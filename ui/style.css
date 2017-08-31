@@ -5,11 +5,11 @@ body, html{
 
 }
 header{
-    background-color:#fff;
+    background-color:blue;
 }
 .top-bar{
     padding:10px 0px;
-    background-color:lightblue;
+    background-color:#fff;
 }
 .top-bar .contact_number{
     text-decoration:none;
