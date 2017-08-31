@@ -22,8 +22,8 @@ header{
 .icons ul li a{
     padding:7px;
     border-radius:50%;
-    color:#fff;
-    background-color:blue;
+    color:#fff !important;
+    background-color:blue !important;
 }
 .navbar-nav {
 padding:10px 0px;
@@ -37,8 +37,8 @@ padding:10px 0px;
     font-size:16px;
 }
 .navbar-nav li.active,.navbar-nav li a:hover{
-    background-color:blue;
-    color:#fff;
+    background-color:blue !important;
+    color:#fff !important;
 }
     
     
